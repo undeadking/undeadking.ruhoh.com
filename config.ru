@@ -1,6 +1,6 @@
 require 'rack'
 require 'ruhoh'
-run Ruhoh::Program.preview
+run Ruhoh::Program.preview(:env => 'production')
 
 # To preview your blog in "production" mode:
 # run Ruhoh::Program.preview(:env => 'production')
