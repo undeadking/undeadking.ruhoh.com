@@ -10,8 +10,6 @@ tags: [git]
 
 《Pro Git》中文版
 
-http://github.danmarner.com/ 
-
 http://git-scm.com/book/zh
 
 《Git Community Book》 中文版 
@@ -25,7 +23,6 @@ http://www-cs-students.stanford.edu/%7Eblynn/gitmagic/intl/zh_cn/index.html
 
 
 
-
 《Git权威指南》的博客
 
 http://www.worldhello.net/
@@ -36,12 +33,16 @@ http://www.worldhello.net/
 http://www.worldhello.net/gotgithub/
 
 
-git参考手册
+git quick reference
 
 英文原版:
 http://gitref.org/index.html
 中文版:
 http://gitref.cyj.me/zh/index.html
+
+git Reference
+
+http://git-scm.com/docs
 
 
 git ready
