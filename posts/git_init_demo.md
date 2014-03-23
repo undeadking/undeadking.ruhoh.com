@@ -1,5 +1,5 @@
 ---
-title:
+title: git创建仓库的例子
 date: '2012-10-12'
 description:
 categories:

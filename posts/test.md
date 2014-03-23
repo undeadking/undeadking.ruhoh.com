@@ -1,5 +1,5 @@
 ---
-title:
+title: 两行实现快速排序
 date: '2012-09-21'
 description:
 categories:
@@ -7,7 +7,7 @@ tags: [python]
 
 type: draft
 ---
-两行实现快速排序
+
 
 ````
 def qsort(li):

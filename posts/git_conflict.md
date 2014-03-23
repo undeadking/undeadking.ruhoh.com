@@ -1,5 +1,5 @@
 ---
-title:
+title: git的冲突解决
 date: '2012-10-07'
 description:
 categories:

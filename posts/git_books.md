@@ -1,5 +1,5 @@
 ---
-title:
+title: git的参考资料和书籍
 date: '2012-10-12'
 description:
 categories:
